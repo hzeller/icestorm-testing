@@ -1,0 +1,7 @@
+set_io clk         21
+
+set_io center_led  95
+set_io led_ring[0] 96
+set_io led_ring[1] 97
+set_io led_ring[2] 98
+set_io led_ring[3] 99
